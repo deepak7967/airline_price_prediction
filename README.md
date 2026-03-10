@@ -1,5 +1,5 @@
 # Airline Ticket Price Prediction using Machine Learning
-
+![img](https://github.com/deepak7967/airline_price_prediction/blob/main/pics/img.jpeg)
 ## Project Overview
 
 This project focuses on analyzing and predicting airline ticket prices using machine learning techniques. Airline prices vary depending on several factors such as duration of the flight, airline, number of stops, departure time, and route. The goal of this project is to build a predictive model that can estimate ticket prices based on these features.
