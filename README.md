@@ -32,6 +32,7 @@ The initial step involved understanding and cleaning the dataset. Missing values
 Several visualizations were created to explore relationships between variables:
 
 A correlation matrix was plotted for all numerical columns to analyze relationships between variables. It was observed that flight duration had the highest correlation with ticket price, indicating that longer flights generally have higher prices.
+![corr](https://github.com/deepak7967/airline_price_prediction/blob/main/corr.png)
 
 A linear regression plot (lmplot) between duration and price was created to visually confirm this strong positive relationship.The departure time (Dep_Time) column was transformed into meaningful categories such as Morning, Afternoon, Evening, Night, and Late Night using conditional logic (if-else).
 A bar chart was used to visualize the distribution of flights across these time categories. The analysis showed that night flights had the highest number of departures.
