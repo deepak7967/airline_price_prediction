@@ -30,32 +30,32 @@ Hyperparameter tuning was performed using RandomizedSearchCV to find the optimal
 
 The project follows these steps:
 
-1. Data Cleaning
+ ### 1. Data Cleaning
    Handling missing values and removing unnecessary columns.
 
-2. Feature Engineering
+ ### 2. Feature Engineering
    Transforming and creating meaningful features such as flight duration and time-related variables.
 
-3. Feature Encoding
+ ### 3. Feature Encoding
    Converting categorical variables into numerical form so that they can be used in machine learning models.
 
-4. Train-Test Split
+ ### 4. Train-Test Split
    Splitting the dataset into training and testing sets.
 
-5. Model Training
+ ### 5. Model Training
    Training a Random Forest model on the training dataset.
 
-6. Model Evaluation
+ ### 6. Model Evaluation
    Evaluating the model using regression metrics such as:
 
    * MAE (Mean Absolute Error)
    * MAPE (Mean Absolute Percentage Error)
    * R² Score
 
-7. Hyperparameter Tuning
+ ### 7. Hyperparameter Tuning
    Using RandomizedSearchCV to find the best parameters for the model.
 
-8. Final Model Selection
+ ### 8. Final Model Selection
    The best model was selected and saved using pickle for future predictions.
 
 
