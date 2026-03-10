@@ -36,7 +36,7 @@ A correlation matrix was plotted for all numerical columns to analyze relationsh
 
 A linear regression plot (lmplot) between duration and price was created to visually confirm this strong positive relationship.The departure time (Dep_Time) column was transformed into meaningful categories such as Morning, Afternoon, Evening, Night, and Late Night using conditional logic (if-else).
 A bar chart was used to visualize the distribution of flights across these time categories. The analysis showed that night flights had the highest number of departures.
-
+![lmplot](https://github.com/deepak7967/airline_price_prediction/blob/main/lmplot.png)
 ### 2. Feature Engineering and Encoding
 * Categorical variables were converted into numerical form so that they could be used in machine learning models.
 * Different encoding techniques were used depending on the nature of the variable:
