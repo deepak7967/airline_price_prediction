@@ -1,6 +1,7 @@
-Pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-pickle
+Libraries Used :
+1. Pandas
+2. numpy
+3. matplotlib
+4. seaborn
+5. scikit-learn
+6. pickle
