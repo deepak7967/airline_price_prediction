@@ -54,6 +54,7 @@ A bar chart was used to visualize the distribution of flights across these time 
 * The upper bound for price was calculated as 23017.
 * Values above this threshold were treated as outliers.
 * Instead of removing them, they were replaced with the median price to prevent distortion of the model.
+  ![boxplot](https://github.com/deepak7967/airline_price_prediction/blob/main/pics/boxplot.png)
 
 ### 4. Feature Selection
 * A Random Forest model was used to calculate feature importance.
