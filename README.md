@@ -80,6 +80,7 @@ min_samples_split = 10
 max_depth = 17
 After tuning, the model achieved:
 R² Score: 0.81
+![code](https://github.com/deepak7967/airline_price_prediction/blob/main/pics/code.png)
 
 ### 7. Final Model
 Using the best hyperparameters, the final model was trained.
