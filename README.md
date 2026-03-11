@@ -40,7 +40,8 @@ A linear regression plot (lmplot) between duration and price was created to visu
 
 The departure time (Dep_Time) column was transformed into meaningful categories such as Morning, Afternoon, Evening, Night, and Late Night.
 A bar chart was used to visualize the distribution of flights across these time categories. The analysis showed that night flights had the highest number of departures.
-![barplot]()
+![barplot](https://github.com/deepak7967/airline_price_prediction/blob/main/pics/barplot.png)
+
 ### 2. Feature Engineering and Encoding
 * Categorical variables were converted into numerical form so that they could be used in machine learning models.
 * Different encoding techniques were used depending on the nature of the variable:
