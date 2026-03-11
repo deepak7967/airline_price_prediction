@@ -36,6 +36,7 @@ A correlation matrix was plotted for all numerical columns to analyze relationsh
 ![corr](https://github.com/deepak7967/airline_price_prediction/blob/main/pics/corr.png)
 
 A linear regression plot (lmplot) between duration and price was created to visually confirm this strong positive relationship.
+
 ![lmplot](https://github.com/deepak7967/airline_price_prediction/blob/main/pics/lmplot.png)
 
 The departure time (Dep_Time) column was transformed into meaningful categories such as Morning, Afternoon, Evening, Night, and Late Night.
